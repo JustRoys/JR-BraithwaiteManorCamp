@@ -7,6 +7,8 @@
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/JustRoys/JR-BraithwaiteManorCamp">
 </p>
 
+---
+
 A lovely little camp close to Braithwaite Manor. 
 You can hang out here with friends and tell campfire stories or enjoy the beautiful surroundings.
 
